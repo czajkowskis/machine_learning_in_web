@@ -4,9 +4,7 @@
 **Exercise-2 Practical**  
 **Section a**
 ***
-Signal decomposition: Generate three time series of the form
-
-***3_Time_Series_Form.png*** 
+Signal decomposition: Generate three time series of the form;
 
 ![Screenshot 2024-11-10 at 10 47 17](https://github.com/user-attachments/assets/01b33af0-a0e9-4a87-a2fd-9f1bb527fbea)
 
